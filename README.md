@@ -26,7 +26,7 @@ Papers, tutorials, code for large language models
   - [Pathways Language Model and Model Scaling - Aakanksha Chowdhery | Stanford MLSys #69](https://www.youtube.com/watch?v=CV_eBVwzOaw)
 - [FLAN: Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652)
 - [Scaling Instruction-Finetuned Language Models (Flan-PaLM)](https://arxiv.org/abs/2210.11416)
-  - Paper explained [video](https://www.youtube.com/watch?v=QdwETwqyREY), [slides](https://samuelalbanie.com/files/digest-slides/2022-10-scaling-instruction-finetuned-language-models.pdf)
+  - Paper explained with related work: [video](https://www.youtube.com/watch?v=QdwETwqyREY), [slides](https://samuelalbanie.com/files/digest-slides/2022-10-scaling-instruction-finetuned-language-models.pdf)
 - [Primer: Searching for Efficient Transformers for Language Modeling](https://arxiv.org/abs/2109.08668)
 - 
 
