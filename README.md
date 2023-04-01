@@ -19,7 +19,7 @@ This repository covers a wide range of topics related to large language models, 
 - [GPT3: Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
   - [Stanford Webinar - GPT-3 & Beyond](https://www.youtube.com/watch?v=-lnHHWRCDGk) ([Slides](https://docs.google.com/presentation/d/1WPYaLEEVJJI_-DOzjudeVoYpl_y0yUi1kWs0VFBnba4/edit#slide=id.g1c79e641885_1_554))
 - [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971) 
-  -[Vedio with Paper Explained](https://www.youtube.com/watch?v=E5OnoYF2oAk)
+  - [Vedio with Paper Explained](https://www.youtube.com/watch?v=E5OnoYF2oAk)
 - [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/abs/2204.02311)
   - [Pathways Language Model and Model Scaling - Aakanksha Chowdhery | Stanford MLSys #69](https://www.youtube.com/watch?v=CV_eBVwzOaw)
 
