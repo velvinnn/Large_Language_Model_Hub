@@ -27,23 +27,33 @@ Papers, tutorials, code for large language models
 - [FLAN: Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652)
 - [Scaling Instruction-Finetuned Language Models (Flan-PaLM)](https://arxiv.org/abs/2210.11416)
   - Paper explained [video](https://www.youtube.com/watch?v=QdwETwqyREY), [slides](https://samuelalbanie.com/files/digest-slides/2022-10-scaling-instruction-finetuned-language-models.pdf)
+- [Primer: Searching for Efficient Transformers for Language Modeling](https://arxiv.org/abs/2109.08668)
 - 
 
 ## Training and optimization
-- [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
+- [Training language models to follow instructions with human feedback (InstructGPT)](https://arxiv.org/abs/2203.02155)
   - [Explanation vedio: How ChatGPT is trained](https://www.youtube.com/watch?v=VPRSBzXzavo)
 - [The Large Language Model Training Playbook](https://github.com/huggingface/large_language_model_training_playbook)
 - [Scaling Expert Language Models with Unsupervised Domain Discovery](https://arxiv.org/abs/2303.14177)
 - [Summary of open-source APIs, tools and services for LLM](https://github.com/kasperjunge/LLM-Guide)
+- [UL2: Unifying Language Learning Paradigms](https://arxiv.org/abs/2205.05131)
+- [Glam: Efficient scaling of language models with mixture-of-experts](https://proceedings.mlr.press/v162/du22c.html)
+- 
 
 ## Benchmarks and datasets
 - [Beyond the Imitation Game benchmark (BIG-bench)](https://arxiv.org/abs/2206.04615)
 - [Measuring Massive Multitask Language Understanding (MMLU Dataset)](https://arxiv.org/abs/2009.03300)
+- [TyDi QA: A Benchmark for Information-Seeking Question Answering in Typologically Diverse Languages](https://arxiv.org/abs/2003.05002)
+- [Language Models are Multilingual Chain-of-Thought Reasoners](https://arxiv.org/abs/2210.03057)
+- 
 
 ## Prompt-tuning
+- [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
+- [Large Language Models Can Self-Improve](https://arxiv.org/abs/2210.11610)
 - [The Art of Asking ChatGPT for High-Quality Answers: A complete Guide to Prompt-Engineering Technique](https://www.amazon.com/Art-Asking-ChatGPT-High-Quality-Answers/dp/B0BT2JB67Y)
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
   - [1-hour tutorial](https://www.youtube.com/watch?v=dOxUroR57xs) ([Slides](https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/lecture/Prompt-Engineering-Lecture-Elvis.pdf))
+
 
 ## ChatGPT / GPT-4
 - [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)
