@@ -80,7 +80,7 @@ Papers, tutorials, code for large language models
 ## Clinical applications
 - [Open source diagnosis generator](https://glass.health/ai)
 - [ChatDoctor: A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge](https://arxiv.org/abs/2303.14070v1)
-- [Med-PaLM](Large Language Models Encode Clinical Knowledge)
+- [Large Language Models Encode Clinical Knowledge (Med-PaLM)](https://arxiv.org/abs/2212.13138)
 - [Clinical-T5: Large Language Models Built Using MIMIC Clinical Text](https://physionet.org/content/clinical-t5/1.0.0/)
 - 
 
