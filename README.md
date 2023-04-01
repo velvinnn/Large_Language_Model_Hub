@@ -27,7 +27,7 @@ Papers, tutorials, code for large language models
 - [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/abs/2204.02311)
   - [Pathways Language Model and Model Scaling - Aakanksha Chowdhery | Stanford MLSys #69](https://www.youtube.com/watch?v=CV_eBVwzOaw)
 - [FLAN: Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652)
-- [Scaling Instruction-Finetuned Language Models (Flan-PaLM)](https://arxiv.org/abs/2210.11416)
+- [Flan-PaLM: Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416)
   - Paper explained with related work: [video](https://www.youtube.com/watch?v=QdwETwqyREY), [slides](https://samuelalbanie.com/files/digest-slides/2022-10-scaling-instruction-finetuned-language-models.pdf)
 - [Primer: Searching for Efficient Transformers for Language Modeling](https://arxiv.org/abs/2109.08668)
 - 
@@ -43,8 +43,8 @@ Papers, tutorials, code for large language models
 - 
 
 ## Benchmarks and datasets
-- [Beyond the Imitation Game benchmark (BIG-bench)](https://arxiv.org/abs/2206.04615)
-- [Measuring Massive Multitask Language Understanding (MMLU Dataset)](https://arxiv.org/abs/2009.03300)
+- [BIG-bench: Beyond the Imitation Game benchmark](https://arxiv.org/abs/2206.04615)
+- [MMLU: Measuring Massive Multitask Language Understanding](https://arxiv.org/abs/2009.03300)
 - [TyDi QA: A Benchmark for Information-Seeking Question Answering in Typologically Diverse Languages](https://arxiv.org/abs/2003.05002)
 - [Language Models are Multilingual Chain-of-Thought Reasoners](https://arxiv.org/abs/2210.03057)
 - 
