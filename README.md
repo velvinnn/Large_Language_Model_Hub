@@ -17,6 +17,8 @@ Papers, tutorials, code for large language models
 ## Key language models
 - [A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT](https://arxiv.org/pdf/2302.09419.pdf)
 - [A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT](https://arxiv.org/abs/2303.04226)
+- [T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683)
+  - [Flan-T5](https://huggingface.co/docs/transformers/model_doc/flan-t5)
 - [GPT3: Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
   - [Stanford Webinar - GPT-3 & Beyond](https://www.youtube.com/watch?v=-lnHHWRCDGk) ([Slides](https://docs.google.com/presentation/d/1WPYaLEEVJJI_-DOzjudeVoYpl_y0yUi1kWs0VFBnba4/edit#slide=id.g1c79e641885_1_554))
 - [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971) 
