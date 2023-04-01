@@ -45,7 +45,7 @@ This repository covers a wide range of topics related to large language models, 
 - [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)
 
 ## Retrieval-base NLP
-- [Paper: Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP](https://arxiv.org/abs/2212.14024)
+- [Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP](https://arxiv.org/abs/2212.14024)
 
 ## Evaluation through application
 - [Emergent abilities of large language models](https://www.jasonwei.net/blog/emergence)
