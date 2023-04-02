@@ -52,6 +52,7 @@ Papers, tutorials, code for large language models
 ## Prompt-tuning
 - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
 - [Large Language Models Can Self-Improve](https://arxiv.org/abs/2210.11610)
+- [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/abs/2203.11171)
 - [The Art of Asking ChatGPT for High-Quality Answers: A complete Guide to Prompt-Engineering Technique](https://www.amazon.com/Art-Asking-ChatGPT-High-Quality-Answers/dp/B0BT2JB67Y)
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
   - [1-hour tutorial](https://www.youtube.com/watch?v=dOxUroR57xs) ([Slides](https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/lecture/Prompt-Engineering-Lecture-Elvis.pdf))
