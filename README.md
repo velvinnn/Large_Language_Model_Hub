@@ -95,6 +95,7 @@ Papers, tutorials, code for large language models
 
 
 ## Other github resources
+- [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
 - [Reasoning in Large Language Models](https://github.com/jeffhj/LM-reasoning)
 - [A set of AI tools](https://github.com/meetpateltech/AI-Infinity)
 - [LLM summaries and tutorials: Awesome-LLM Awesome](https://github.com/Hannibal046/Awesome-LLM)
