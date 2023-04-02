@@ -97,5 +97,6 @@ Papers, tutorials, code for large language models
 
 ## Discussions
 - [Yann LeCun: do large language models need sensory grounding for meaning and understanding](https://drive.google.com/file/d/1BU5bV3X5w65DwSMapKcsr0ZvrMRU_Nbi/view)
+- [Full interview: "Godfather of artificial intelligence" talks impact and potential of AI](https://www.youtube.com/watch?v=qpoRO378qRY)
 - [Whose Opinions Do Language Models Reflect?](https://arxiv.org/abs/2303.17548)
 - [The Low-Rank Simplicity Bias in Deep Networks](https://arxiv.org/abs/2103.10427)
