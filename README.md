@@ -48,6 +48,7 @@ Papers, tutorials, code for large language models
 - [TyDi QA: A Benchmark for Information-Seeking Question Answering in Typologically Diverse Languages](https://arxiv.org/abs/2003.05002)
 - [Language Models are Multilingual Chain-of-Thought Reasoners](https://arxiv.org/abs/2210.03057)
 - [GPTEval: NLG Evaluation using GPT-4 with Better Human Alignment](https://arxiv.org/abs/2303.16634)
+- [Open AI Evals](https://github.com/openai/evals)
 
 ## Prompt-tuning
 - [AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/abs/2010.15980)
