@@ -102,6 +102,7 @@ Papers, tutorials, code for large language models
 - [LLM summaries and tutorials: Awesome-LLM Awesome](https://github.com/Hannibal046/Awesome-LLM)
 - [Stanford CS324: Large Language Models](https://stanford-cs324.github.io/winter2022/)
 - [Princeton COS597G(Fall 2022): Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
+- [Princeton COS 597F: Embodied Language Understanding](https://sites.google.com/princeton.edu/cos597f)
 - 
 
 
