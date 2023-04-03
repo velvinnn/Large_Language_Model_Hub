@@ -11,7 +11,7 @@ Papers, tutorials, code for large language models
 7. [Retrieval-base NLP](#retrieval-base-nlp)
 8. [Emergent capabilities](#emergent-capabilities)
 9. [Clinical Applications](#clinical-applications)
-10. [Other github resources](#other-github-resources)
+10. [Learning resources](#learning-resources)
 11. [Discussions](#discussions)
 
 ## Key language models
@@ -67,6 +67,7 @@ Papers, tutorials, code for large language models
 - [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)
 - [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712v1)
 - [GPT-4 developer demo livestream](https://www.youtube.com/watch?v=outcGtbnMuQ&ab_channel=OpenAI)
+- [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/abs/2303.17580)
 
 ## Augmented LLM
 - [Augmented Language Models: a Survey](https://arxiv.org/abs/2302.07842)
@@ -94,11 +95,14 @@ Papers, tutorials, code for large language models
 - [Performance of ChatGPT on USMLE: Potential for AI-assisted medical education using large language models](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9931230/)
 
 
-## Other github resources
+## Learning resources
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
 - [Reasoning in Large Language Models](https://github.com/jeffhj/LM-reasoning)
 - [A set of AI tools](https://github.com/meetpateltech/AI-Infinity)
 - [LLM summaries and tutorials: Awesome-LLM Awesome](https://github.com/Hannibal046/Awesome-LLM)
+- [Stanford CS324: Large Language Models](https://stanford-cs324.github.io/winter2022/)
+- [Princeton COS597G(Fall 2022): Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
+- 
 
 
 ## Discussions
