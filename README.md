@@ -39,7 +39,7 @@ Papers, tutorials, code for large language models
 - [Unlimiformer: Long-Range Transformers with Unlimited Length Input](https://arxiv.org/abs/2305.01625)
 - [LaMP: When Large Language Models Meet Personalization](https://arxiv.org/abs/2304.11406)
 
-##LLM surveys
+## LLM surveys
 - [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)
 - [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/abs/2304.13712)
 - 
@@ -69,6 +69,7 @@ Papers, tutorials, code for large language models
 - [Zero-shot Clinical Entity Recognition using ChatGPT](https://arxiv.org/pdf/2303.16416v1.pdf)
 - [ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks](https://arxiv.org/abs/2303.15056)
 - [Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/pdf/2304.15004.pdf)
+- [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
 
 ## Hallucination
 - [Survey of Hallucination in Natural Language Generation](https://arxiv.org/abs/2202.03629)
