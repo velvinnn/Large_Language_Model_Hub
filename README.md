@@ -25,7 +25,6 @@ Papers, tutorials, code for large language models
   - [Flan-T5](https://huggingface.co/docs/transformers/model_doc/flan-t5)
 - [GPT3: Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
   - [Stanford Webinar - GPT-3 & Beyond](https://www.youtube.com/watch?v=-lnHHWRCDGk) ([Slides](https://docs.google.com/presentation/d/1WPYaLEEVJJI_-DOzjudeVoYpl_y0yUi1kWs0VFBnba4/edit#slide=id.g1c79e641885_1_554))
-  - [Sparks of AGI: early experiments with GPT-4](https://www.youtube.com/watch?v=qbIk7-JPB2c&ab_channel=SebastienBubeck)
 - [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971) 
   - [Vedio with Paper Explained](https://www.youtube.com/watch?v=E5OnoYF2oAk)
   - [LLaMA-Adapter: Efficient Fine-tuning of LLaMA](https://github.com/ZrrSkywalker/LLaMA-Adapter)
@@ -94,6 +93,7 @@ Papers, tutorials, code for large language models
 ## ChatGPT / GPT-4
 - [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)
 - [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712v1)
+  - [Talk by the first author](https://www.youtube.com/watch?v=qbIk7-JPB2c&ab_channel=SebastienBubeck)
 - [GPT-4 developer demo livestream](https://www.youtube.com/watch?v=outcGtbnMuQ&ab_channel=OpenAI)
 - [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/abs/2303.17580)
 
