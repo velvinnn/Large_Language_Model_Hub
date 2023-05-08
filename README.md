@@ -14,8 +14,9 @@ Papers, tutorials, code for large language models
 10. [Retrieval-base NLP](#retrieval-base-nlp)
 11. [Clinical Applications](#clinical-applications)
 12. [Knowledge Distillnation](#knowledge-distillation)
-13. [Learning resources](#learning-resources)
-14. [Discussions](#discussions)
+13. [Machine Translation](#machine-translation)
+14. [Learning resources](#learning-resources)
+15. [Discussions](#discussions)
 
 
 ## Key language models
@@ -119,6 +120,15 @@ Papers, tutorials, code for large language models
 
 ## Knowledge Distillnation
 - [Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes](https://arxiv.org/abs/2305.02301)
+
+## Machine Translation
+- [Pseudo-label Training and Model Inertia in Neural Machine Translation](https://urldefense.com/v3/__https://openreview.net/forum?id=eXkhH12DTD9__;!!K-Hz7m0Vt54!mPbn2m9VGpvdlbDmyEweve8305fS_1D7hjvSKEJmo1VfUX1R4ZEEoDcuLiuBPFYWp4_7i-57OXdS7YCdnQ$)
+- [Evaluating Robustness to Input Perturbations for Neural Machine Translation](https://urldefense.com/v3/__https://aclanthology.org/2020.acl-main.755/__;!!K-Hz7m0Vt54!mPbn2m9VGpvdlbDmyEweve8305fS_1D7hjvSKEJmo1VfUX1R4ZEEoDcuLiuBPFYWp4_7i-57OXfrGmdqAw$)
+- [CoCoA-MT: A Dataset and Benchmark for Contrastive Controlled MT with Application to Formality](https://urldefense.com/v3/__https://arxiv.org/abs/2205.04022__;!!K-Hz7m0Vt54!mPbn2m9VGpvdlbDmyEweve8305fS_1D7hjvSKEJmo1VfUX1R4ZEEoDcuLiuBPFYWp4_7i-57OXdp5rrfDg$)
+- [MT-GenEval: A Counterfactual and Contextual Dataset for Evaluating Gender Accuracy in Machine Translation](https://urldefense.com/v3/__https://arxiv.org/abs/2211.01355__;!!K-Hz7m0Vt54!mPbn2m9VGpvdlbDmyEweve8305fS_1D7hjvSKEJmo1VfUX1R4ZEEoDcuLiuBPFYWp4_7i-57OXccTO29IQ$)
+- [How Good Are GPT Models at Machine Translation? A Comprehensive Evaluation](https://urldefense.com/v3/__https://arxiv.org/pdf/2302.09210.pdf__;!!K-Hz7m0Vt54!mPbn2m9VGpvdlbDmyEweve8305fS_1D7hjvSKEJmo1VfUX1R4ZEEoDcuLiuBPFYWp4_7i-57OXd36gwjEg$)
+- [Large language models effectively leverage document-level context for literary translation, but critical errors persist](https://urldefense.com/v3/__https://arxiv.org/pdf/2304.03245.pdf__;!!K-Hz7m0Vt54!mPbn2m9VGpvdlbDmyEweve8305fS_1D7hjvSKEJmo1VfUX1R4ZEEoDcuLiuBPFYWp4_7i-57OXdCqkwFXQ$)
+- [No Language Left Behind: Scaling Human-Centered Machine Translation](https://urldefense.com/v3/__https://arxiv.org/abs/2207.04672__;!!K-Hz7m0Vt54!mPbn2m9VGpvdlbDmyEweve8305fS_1D7hjvSKEJmo1VfUX1R4ZEEoDcuLiuBPFYWp4_7i-57OXdP6YrABA$)
 
 ## Learning resources
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
