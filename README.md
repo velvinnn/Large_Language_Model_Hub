@@ -15,8 +15,9 @@ Papers, tutorials, code for large language models
 11. [Clinical Applications](#clinical-applications)
 12. [Knowledge Distillnation](#knowledge-distillation)
 13. [Machine Translation](#machine-translation)
-14. [Learning resources](#learning-resources)
-15. [Discussions](#discussions)
+14. [Open Source Data](#open-source-data)
+15. [Learning resources](#learning-resources)
+16. [Discussions](#discussions)
 
 
 ## Key language models
@@ -129,6 +130,15 @@ Papers, tutorials, code for large language models
 - [How Good Are GPT Models at Machine Translation? A Comprehensive Evaluation](https://urldefense.com/v3/__https://arxiv.org/pdf/2302.09210.pdf__;!!K-Hz7m0Vt54!mPbn2m9VGpvdlbDmyEweve8305fS_1D7hjvSKEJmo1VfUX1R4ZEEoDcuLiuBPFYWp4_7i-57OXd36gwjEg$)
 - [Large language models effectively leverage document-level context for literary translation, but critical errors persist](https://urldefense.com/v3/__https://arxiv.org/pdf/2304.03245.pdf__;!!K-Hz7m0Vt54!mPbn2m9VGpvdlbDmyEweve8305fS_1D7hjvSKEJmo1VfUX1R4ZEEoDcuLiuBPFYWp4_7i-57OXdCqkwFXQ$)
 - [No Language Left Behind: Scaling Human-Centered Machine Translation](https://urldefense.com/v3/__https://arxiv.org/abs/2207.04672__;!!K-Hz7m0Vt54!mPbn2m9VGpvdlbDmyEweve8305fS_1D7hjvSKEJmo1VfUX1R4ZEEoDcuLiuBPFYWp4_7i-57OXdP6YrABA$)
+
+
+## Open Source Data
+Large open source datasets
+- [RedPajama-Data: An Open Source Recipe to Reproduce LLaMA training dataset](https://github.com/togethercomputer/RedPajama-Data): several datasets, trillions of tokens, in comparison with LLaMA
+- [databricks-dolly-15k](https://huggingface.co/datasets/databricks/databricks-dolly-15k): Instruction pairs (>15k)
+- [OpenAssistant Conversations Dataset (OASST1)](https://huggingface.co/datasets/OpenAssistant/oasst1): >10k conversation trees, with human-in-the-loop style annotations
+- [LongForm: Optimizing Instruction Tuning for Long Text Generation with Corpus Extraction](https://github.com/akoksal/LongForm): Instruction style
+
 
 ## Learning resources
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
