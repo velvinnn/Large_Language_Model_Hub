@@ -15,8 +15,11 @@ Papers, tutorials, code for large language models
 11. [Clinical Applications](#clinical-applications)
 12. [Knowledge Distillnation](#knowledge-distillation)
 13. [Machine Translation](#machine-translation)
-14. [Learning resources](#learning-resources)
-15. [Discussions](#discussions)
+14. [Open Source Data](#open-source-data)
+15. [Safety](#safety)
+16. [Learning resources](#learning-resources)
+17. [Analysis and Inspection](#analysis-and-inspection)
+18. [Discussions](#discussions)
 
 
 ## Key language models
@@ -52,7 +55,13 @@ Papers, tutorials, code for large language models
 - [Summary of open-source APIs, tools and services for LLM](https://github.com/kasperjunge/LLM-Guide)
 - [UL2: Unifying Language Learning Paradigms](https://arxiv.org/abs/2205.05131)
 - [Glam: Efficient scaling of language models with mixture-of-experts](https://proceedings.mlr.press/v162/du22c.html)
-- 
+- [State-of-the-art Parameter-Efficient Fine-Tuning (PEFT) methods](https://github.com/huggingface/peft/tree/main)
+  - [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
+  - Adaptive LoRA: [Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning](https://arxiv.org/abs/2303.10512)
+  - [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://aclanthology.org/2021.acl-long.353/)
+  - [P-Tuning: Prompt Tuning Can Be Comparable to Fine-tuning Across Scales and Tasks](https://aclanthology.org/2022.acl-short.8/)
+  - Prompt tuning: [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691)
+
 
 ## Evaluation and benckmarks
 - [BIG-bench: Beyond the Imitation Game benchmark](https://arxiv.org/abs/2206.04615)
@@ -130,6 +139,18 @@ Papers, tutorials, code for large language models
 - [Large language models effectively leverage document-level context for literary translation, but critical errors persist](https://urldefense.com/v3/__https://arxiv.org/pdf/2304.03245.pdf__;!!K-Hz7m0Vt54!mPbn2m9VGpvdlbDmyEweve8305fS_1D7hjvSKEJmo1VfUX1R4ZEEoDcuLiuBPFYWp4_7i-57OXdCqkwFXQ$)
 - [No Language Left Behind: Scaling Human-Centered Machine Translation](https://urldefense.com/v3/__https://arxiv.org/abs/2207.04672__;!!K-Hz7m0Vt54!mPbn2m9VGpvdlbDmyEweve8305fS_1D7hjvSKEJmo1VfUX1R4ZEEoDcuLiuBPFYWp4_7i-57OXdP6YrABA$)
 
+
+## Open Source Data
+Large open source datasets
+- [RedPajama-Data: An Open Source Recipe to Reproduce LLaMA training dataset](https://github.com/togethercomputer/RedPajama-Data): several datasets, trillions of tokens, in comparison with LLaMA
+- [databricks-dolly-15k](https://huggingface.co/datasets/databricks/databricks-dolly-15k): Instruction pairs (>15k)
+- [OpenAssistant Conversations Dataset (OASST1)](https://huggingface.co/datasets/OpenAssistant/oasst1): >10k conversation trees, with human-in-the-loop style annotations
+- [LongForm: Optimizing Instruction Tuning for Long Text Generation with Corpus Extraction](https://github.com/akoksal/LongForm): Instruction style
+
+## Safety
+- [NeMo-Guardrails by NVIDIA](https://github.com/NVIDIA/NeMo-Guardrails/tree/main): Topics, Moderation, Fact Checking and Hallucination, Secure Execution, Jailbreak, etc.
+- [A Watermark for Large Language Models](https://arxiv.org/pdf/2301.10226.pdf)
+
 ## Learning resources
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
 - [Reasoning in Large Language Models](https://github.com/jeffhj/LM-reasoning)
@@ -138,8 +159,11 @@ Papers, tutorials, code for large language models
 - [Stanford CS324: Large Language Models](https://stanford-cs324.github.io/winter2022/)
 - [Princeton COS597G(Fall 2022): Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
 - [Princeton COS 597F: Embodied Language Understanding](https://sites.google.com/princeton.edu/cos597f)
-- 
 
+
+## Analysis and Inspection
+- [Memorization Without Overfitting: Analyzing the Training Dynamics of Large Language Models](https://openreview.net/forum?id=u3vEuRr08MT)
+- [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
 
 ## Discussions
 - [Yann LeCun: do large language models need sensory grounding for meaning and understanding](https://drive.google.com/file/d/1BU5bV3X5w65DwSMapKcsr0ZvrMRU_Nbi/view)
